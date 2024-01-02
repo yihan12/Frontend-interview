@@ -17,5 +17,6 @@
 # $nextTick
 
 * [$nextTick有什么作用？](https://github.com/yihan12/Frontend-interview/issues/14)
+* [简单聊聊你理解Vue中的nextTick](https://github.com/yihan12/Frontend-interview/issues/15)
 
 # 
