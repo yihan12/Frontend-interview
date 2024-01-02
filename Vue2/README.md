@@ -16,6 +16,6 @@
 
 # $nextTick
 
-* [$nextTick有什么作用？]()
+* [$nextTick有什么作用？](https://github.com/yihan12/Frontend-interview/issues/14)
 
 # 
