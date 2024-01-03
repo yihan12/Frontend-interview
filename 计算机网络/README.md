@@ -11,6 +11,8 @@
 # HTTP/HTTPS
 
 - [x] [HTTP和HTTPS的区别](https://github.com/yihan12/Frontend-interview/issues/25)
+- [x] [get 和 post的区别]()
+- [x] [状态码有哪些，分别表示什么]() 
 
 # 前端网络安全
 - [x] [前端网络安全](https://github.com/yihan12/Frontend-interview/issues/16)
