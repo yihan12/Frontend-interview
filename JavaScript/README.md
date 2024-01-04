@@ -1,6 +1,6 @@
 # JavaScript
 
-- [x] [js部分题目解答](https://github.com/yihan12/Frontend-interview/issues/33)
+- [x] [JavaScript部分题目解答](https://github.com/yihan12/Frontend-interview/issues/33)
 - [x] [作用域和闭包]()
 - [x] [原型和原型链]()
 - [x] [聊聊你知道的继承]() 
