@@ -7,6 +7,7 @@
 - [x] [谈谈浏览器缓存](https://github.com/yihan12/Frontend-interview/issues/22)
 - [x] [浏览器缓存的基础](https://github.com/yihan12/Frontend-interview/issues/23)
 - [x] [结合性能优化，聊聊浏览器缓存](https://github.com/yihan12/Frontend-interview/issues/24)
+- [x] [聊聊浏览器的事件循环机制(Event Loop) ]()
 
 # HTTP/HTTPS
 
