@@ -9,7 +9,7 @@
 - [x] [结合性能优化，聊聊浏览器缓存](https://github.com/yihan12/Frontend-interview/issues/24)
 - [x] [聊聊浏览器的事件循环机制(Event Loop) ](https://github.com/yihan12/Frontend-interview/issues/30)
 - [x] [聊一聊history和hash路由的区别](https://github.com/yihan12/Frontend-interview/issues/34)
-- [x] 
+- [x] [cookie、localStorage、sessionStorage区别？](https://github.com/yihan12/Frontend-interview/issues/37)
 
 # HTTP/HTTPS
 
