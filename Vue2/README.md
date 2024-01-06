@@ -9,4 +9,4 @@
 - [x] [源码-响应式原理]()
 - [x] [$nextTick有什么作用？](https://github.com/yihan12/Frontend-interview/issues/14)
 - [x] [简单聊聊你理解Vue中的nextTick](https://github.com/yihan12/Frontend-interview/issues/15)
-
+- [x] [Vue组件间通信有哪些？](https://github.com/yihan12/Frontend-interview/issues/39)
