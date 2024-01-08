@@ -19,4 +19,5 @@
 
 # 前端网络安全
 - [x] [前端网络安全](https://github.com/yihan12/Frontend-interview/issues/16)
+- [x] [你了解CSRF和XSS吗？如何预防？]()
 
