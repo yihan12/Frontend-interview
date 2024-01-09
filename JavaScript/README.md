@@ -2,7 +2,7 @@
 
 - [x] [JavaScript部分题目解答](https://github.com/yihan12/Frontend-interview/issues/33)
 - [x] [作用域和闭包](https://github.com/yihan12/Frontend-interview/issues/40)
-- [x] [原型和原型链]()
+- [x] [原型和原型链](https://github.com/yihan12/Frontend-interview/issues/41)
 - [x] [聊聊你知道的继承]() 
 - [x] [防抖节流]()
 - [x] [new的原理及实现]()
