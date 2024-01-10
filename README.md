@@ -18,3 +18,7 @@
 
 - [2022](https://github.com/yihan12/Frontend-interview/blob/main/daily/2022/README.md)
 - [2023](https://github.com/yihan12/Frontend-interview/blob/main/daily/2023/README.md)
+
+### 面试相关链接收集
+
+- [x] [飞书面试题](https://cfz6pr2brp.feishu.cn/base/appiHELqQxL9uyOqlNjMQQhOEUI?table=tblMaffjeFYrLrQe&view=vewJHSwJVd)
