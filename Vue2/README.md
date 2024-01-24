@@ -12,3 +12,4 @@
 - [x] [Vue组件间通信有哪些？](https://github.com/yihan12/Frontend-interview/issues/39)
 - [x] [写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/yihan12/Frontend-interview/issues/47)
 - [x] [computed和watch的区别](https://github.com/yihan12/Frontend-interview/issues/48) 
+- [x] [什么是 MVVM？](https://github.com/yihan12/Frontend-interview/issues/49)
